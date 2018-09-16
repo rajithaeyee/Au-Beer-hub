@@ -1,2 +1,2 @@
 # Au-Beer-hub
-Front end using Aurelia js for PunkAPI
+Front end web application using Aurelia js for PunkAPI
